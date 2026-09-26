@@ -52,3 +52,5 @@ pip install numpy pandas scipy scikit-learn matplotlib seaborn
 ### 4. Metric Foundations (Task 3)
 * Houses verification logic parsing structural categorical labels against predictive output sequences.
 * Unpacks matrix dimensions cleanly via `.ravel()` into `tn`, `fp`, `fn`, `tp` formats to secure foundational arithmetic validation blocks before deploying scale classifiers.
+
+#explanation video link : https://drive.google.com/file/d/1umKceNGsOtHlhfGEqIWW7IHFOF555ABj/view?usp=sharing
